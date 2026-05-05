@@ -40,39 +40,15 @@
 
 ## 🛠️ Tech Stack
 
-### 📱 Mobile
-
-* Kotlin, Java
-* Jetpack Compose, Android SDK
-* ViewModel, LiveData, Navigation
-
-### 🏗️ Architecture
-
-* MVVM, MVI, Clean Architecture
-* Modularization
-* SOLID Principles
-
-### ⚡ Performance
-
-* Baseline Profiles
-* R8 / Proguard
-* App Startup Optimization
-
-### 🔌 Backend & Data
-
-* Retrofit, REST APIs
-* Room, SQLite
-* Coroutines, Flow
-
-### 🔐 Tools & DevOps
-
-* Hilt, Koin (DI)
-* Firebase, AWS Cognito
-* GitHub Actions, Bitbucket CI/CD
-
-### 🧪 Testing
-
-* JUnit, Mockito, Espresso
+| Category | Technologies |
+|--------|-------------|
+| 📱 Mobile | Kotlin, Java, Android SDK, Jetpack Compose |
+| 🏗️ Architecture | MVVM, MVI, Clean Architecture, Modularization, SOLID |
+| ⚡ Performance | Baseline Profiles, R8 / Proguard, App Startup Optimization |
+| 🔌 Backend & Data | Retrofit, REST APIs, Room, SQLite, Coroutines, Flow |
+| 🔐 Tools & DevOps | Hilt, Koin, Firebase, AWS Cognito, GitHub Actions, Bitbucket CI/CD |
+| 🧪 Testing | JUnit, Mockito, Espresso |
+| 🛠️ Tools & Workflow | Git, Jira, Agile/Scrum |
 
 ## 📌 Featured Projects
 
