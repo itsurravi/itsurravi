@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravikant Sharma</h1>
-<h3 align="center">Senior Android Engineer | Kotlin | Scalable Mobile Systems 🚀</h3>
+<h3 align="center">Senior Android Engineer | Kotlin 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=7%2B+Years+Android+Experience;Jetpack+Compose+%7C+Clean+Architecture;Building+High-Performance+Apps;Preparing+for+Senior%2FLead+Roles&center=true&width=500&height=45" />
@@ -28,7 +28,7 @@
 * 🧪 Increased app stability with **JUnit + Mockito testing**
 * 🔄 Designed CI/CD pipelines for automated delivery
 
-### 📱 Android Developer (2020–2024)
+### 📱 PrepLadder (Unacademy Group) — Android Developer (2020–2024)
 
 * 📊 Managed **19 apps with 50K+ DAU**
 * 🏗️ Migrated monolith → **multi-module architecture (35% faster builds)**
@@ -90,8 +90,3 @@
 * 💼 LinkedIn: [https://www.linkedin.com/in/ravikantsharma23](https://www.linkedin.com/in/ravikantsharma23)
 * 📧 Email: [ravik6373@gmail.com](mailto:ravik6373@gmail.com)
 
----
-
-## ⚡ Fun Fact
-
-I enjoy watching Movies, WebSeries and Playing Games 😄
