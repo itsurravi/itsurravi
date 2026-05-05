@@ -94,7 +94,7 @@
 
 ## 📚 Currently Focused On
 
-* 🌱 Currently exploring **Kotlin Multiplatform (KMM)** and **Compose Multiplatform (CMP)** to enable shared business logic and UI across Android & iOS
+* 🌱 **Kotlin Multiplatform (KMM)** and **Compose Multiplatform (CMP)** to enable shared business logic and UI across Android & iOS
 * 🧠 Advanced Android System Design
 * ⚡ Performance Optimization at Scale
 * 🏗️ Scalable Mobile Architecture
