@@ -74,21 +74,25 @@
 
 * JUnit, Mockito, Espresso
 
----
-
 ## 📌 Featured Projects
 
 ### 🎵 Playback Music Player
 
-* 🚀 Built using **Media3/ExoPlayer + Coroutines + Room**
-* 📈 200K+ downloads | ⭐ 4.0+ rating
-* ⚡ Optimized for performance & smooth playback
+🔗 [PlayStore Link](https://play.google.com/store/apps/details?id=com.ravisharma.playbackmusic)
+
+* 🚀 Built using **Media3 (ExoPlayer), Room, Coroutines**
+* 📈 Achieved **200K+ downloads** with ⭐ 4.0+ rating
+* ⚡ Optimized for **high-performance audio playback**
+
+---
 
 ### 🔐 Hot VPN – Secure VPN Proxy
 
-* 🛠️ Built from scratch after code loss
-* 🔒 Secure VPN tunneling & encryption
-* 💰 Integrated Google Play Billing
+🔗 [PlayStore Link](https://play.google.com/store/apps/details?id=com.hot_vpn.securevpn)
+
+* 🛠️ Built entire app **from scratch after code loss**
+* 🔒 Implemented **secure VPN tunneling & encrypted connections**
+* 💰 Integrated **Google Play Billing for subscriptions**
 
 ---
 
