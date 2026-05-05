@@ -62,8 +62,6 @@
 * 📈 Achieved **200K+ downloads** with ⭐ 4.0+ rating
 * ⚡ Optimized for **high-performance audio playback**
 
----
-
 ### 🔐 Hot VPN – Secure VPN Proxy
 
 🔗 [PlayStore Link](https://play.google.com/store/apps/details?id=com.hot_vpn.securevpn)
