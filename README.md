@@ -50,6 +50,8 @@
 | 🧪 Testing | JUnit, Mockito, Espresso |
 | 🛠️ Tools & Workflow | Git, Jira, Agile/Scrum |
 
+---
+
 ## 📌 Featured Projects
 
 ### 🎵 Playback Music Player
