@@ -31,10 +31,10 @@
 ### 📱 Android Developer (2020–2024)
 
 * 📊 Managed **19 apps with 50K+ DAU**
-* ⚡ Improved performance by **20%**
 * 🏗️ Migrated monolith → **multi-module architecture (35% faster builds)**
 * 🔄 Refactored Java → Kotlin for better maintainability
 * 🔐 Implemented **AWS Cognito authentication**
+* ⚡ Improved performance by **20%**
 
 ---
 
