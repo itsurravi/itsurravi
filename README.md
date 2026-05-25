@@ -2,14 +2,14 @@
 <h3 align="center">Senior Android Engineer | Kotlin 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=7%2B+Years+Android+Experience;Jetpack+Compose+%7C+Clean+Architecture;Building+High-Performance+Apps;Preparing+for+Senior%2FLead+Roles&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=5%2B+Years+Android+Experience;Jetpack+Compose+%7C+Clean+Architecture;Building+High-Performance+Apps;Preparing+for+Senior%2FLead+Roles&center=true&width=500&height=45" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 📱 Senior Android Developer with **7+ years of experience**
+* 📱 Senior Android Developer with **%+ years of experience**
 * 🚀 Currently working at **PrepLadder (Unacademy Group)**
 * ⚡ Built & scaled **19 Android apps with 50K+ DAU**
 * 🧠 Strong in **System Design, Performance Optimization & Architecture**
