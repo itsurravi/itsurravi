@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-* 📱 Senior Android Developer with **%+ years of experience**
+* 📱 Senior Android Developer with **5+ years of experience**
 * 🚀 Currently working at **PrepLadder (Unacademy Group)**
 * ⚡ Built & scaled **19 Android apps with 50K+ DAU**
 * 🧠 Strong in **System Design, Performance Optimization & Architecture**
